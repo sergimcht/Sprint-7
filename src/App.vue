@@ -5,8 +5,9 @@
   <div v-else class="welcome">
     <h1>CREADOR DE PRESSUPOST WEB</h1>
     <div class="msgWelcome">
-      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates, explicabo ea non nobis temporibus esse sit nulla deleniti? Repellat blanditiis, libero excepturi assumenda, doloremque provident maxime pariatur, alias aut maiores ducimus omnis aperiam debitis aspernatur error doloribus tenetur? Odit error fuga earum, neque quisquam illo dolor, nisi atque rem est, fugiat ducimus placeat modi voluptatem corrupti eveniet? Cumque minus possimus recusandae quas, molestias, dolores ab quibusdam provident amet exercitationem nulla dicta dolor, iure voluptatum deleniti aperiam repellendus eveniet vitae accusantium numquam velit asperiores illum. Officia doloribus non adipisci hic dolorem magnam ducimus et cupiditate fuga quasi obcaecati, eveniet molestias quae voluptatem fugiat aut rem, accusamus corporis illo modi repellendus. Atque ea officiis beatae adipisci quibusdam asperiores, accusantium tempora, aliquam culpa modi illum animi enim rem maiores iure. Sint porro laudantium impedit, molestiae eveniet quae dicta pariatur beatae ab tenetur aliquam facilis placeat ipsam quos ipsa voluptas repudiandae amet. Iure, vero?
-         </p>
+      <p>
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque perspiciatis vel quo cum odio impedit dignissimos eligendi nulla dolorem, beatae delectus ut. Obcaecati voluptate incidunt, distinctio earum illum odit facere doloremque labore sit sunt! Molestias, veniam nisi deleniti eius laudantium non ipsam sapiente omnis, qui, natus maxime? Adipisci, sed ullam?
+      </p>
       </div>
   </div>
   <div class="swapBtn">
